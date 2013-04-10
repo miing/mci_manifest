@@ -11,7 +11,7 @@
   <project path="manifest" name="miing/mci_manifest" />
   <project path="build" name="miing/mci_build" />
   <project path="migo" name="miing/mci_migo" />
-  <project path="extentions/bugzilla/OpenID" name="miing/mci_extentions_bugzilla_openid" />
+  <project path="extentions/bugzilla/OpenID" name="miing/mci_extensions_bugzilla_openid" />
   <project path="themes/gerrit/sapphire" name="miing/mci_themes_gerrit_sapphire" />
   <project path="sites/miing/miing.org" name="miing/mci_sites_miing_miing.org" />
 </manifest>
