@@ -8,7 +8,6 @@
            sync-c="true"
            sync-j="4" />
            
-  <project path="manifest" name="miing/mci_manifest" />
   <project path="build" name="miing/mci_build" />
   <project path="migo" name="miing/mci_migo" />
   <project path="extentions/bugzilla/OpenID" name="miing/mci_extensions_bugzilla_openid" />
